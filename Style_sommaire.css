@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(130, 111, 49);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.custom-font {
+    font-family: "Edwardian Script ITC", Edwardian Script ITCs;
+    font-size: 100px;
+}
+.position_Image_Sommaire {
+    float: right;
+    bottom: 30;
+}
+.position_sommaire{
+    top: 100%;
+}
+
